@@ -5,11 +5,11 @@
     "sounds":
     [
       {
-        "name": "cold_sweat:player/damage/freeze_0",
+        "name": "coldsweat_namespace:player/damage/freeze_0",
         "stream": true
       },
       {
-        "name": "cold_sweat:player/damage/freeze_1",
+        "name": "coldsweat_namespace:player/damage/freeze_1",
         "stream": true
       }
     ]
@@ -20,7 +20,7 @@
     "sounds":
     [
       {
-        "name": "cold_sweat:item/waterskin_pour",
+        "name": "coldsweat_namespace:item/waterskin_pour",
         "stream": true
       }
     ]
@@ -31,7 +31,7 @@
     "sounds":
     [
       {
-        "name": "cold_sweat:item/waterskin_fill",
+        "name": "coldsweat_namespace:item/waterskin_fill",
         "stream": true
       }
     ]
