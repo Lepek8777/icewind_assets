@@ -1,0 +1,38 @@
+{
+  "entity.player.damage.freeze":
+  {
+    "subtitle": "entity.player.damage.freeze",
+    "sounds":
+    [
+      {
+        "name": "cold_sweat:player/damage/freeze_0",
+        "stream": true
+      },
+      {
+        "name": "cold_sweat:player/damage/freeze_1",
+        "stream": true
+      }
+    ]
+  },
+  "item.waterskin.pour":
+  {
+    "subtitle": "item.waterskin.pour",
+    "sounds":
+    [
+      {
+        "name": "cold_sweat:item/waterskin_pour",
+        "stream": true
+      }
+    ]
+  },
+  "item.waterskin.fill":
+  {
+    "subtitle": "item.waterskin.fill",
+    "sounds":
+    [
+      {
+        "name": "cold_sweat:item/waterskin_fill",
+        "stream": true
+      }
+    ]
+  }
