@@ -6,8 +6,6 @@
 "block.minecraft.bed.obstructed": "",
 "block.minecraft.bed.occupied": "",
 "block.minecraft.bed.too_far_away": "",
-"item.coldsweat_datapack.waterskin": "waterskin",
-"item.coldsweat_datapack.filled_waterskin": "filled waterskin",
-"item.coldsweat_datapack.waterskin_cold": "cold waterskin",
-"item.coldsweat_datapack.waterskin_hot": "hot waterskin"
+"item.coldsweat_datapack.waterskin": "Waterskin",
+"item.coldsweat_datapack.filled_waterskin": "Filled Waterskin"
 }
