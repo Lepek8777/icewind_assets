@@ -11,10 +11,14 @@
 							"when": "hand_fan",
 							"model": {
 								"type": "minecraft:model",
-								"model": "minecraft:item/hand_fan_0"
+								"model": "coldsweat_namespace:item/hand_fan_0"
 							}
 						}
-					]
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/music_disc_11"
+					}
 				},
 				"threshold": 0.25
 			},
@@ -27,10 +31,14 @@
 							"when": "hand_fan",
 							"model": {
 								"type": "minecraft:model",
-								"model": "minecraft:item/hand_fan_1"
+								"model": "coldsweat_namespace:item/hand_fan_1"
 							}
 						}
-					]
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/music_disc_11"
+					}
 				},
 				"threshold": 0.5
 			},
@@ -43,10 +51,14 @@
 							"when": "hand_fan",
 							"model": {
 								"type": "minecraft:model",
-								"model": "minecraft:item/hand_fan_2"
+								"model": "coldsweat_namespace:item/hand_fan_2"
 							}
 						}
-					]
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/music_disc_13"
+					}
 				},
 				"threshold": 0.75
 			}
