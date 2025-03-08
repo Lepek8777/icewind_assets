@@ -1,74 +1,62 @@
 {
-  "model": {
-    "type": "minecraft:range_dispatch",
-    "entries": [
-      {
-        "model": {
-          "type": "minecraft:select",
-          "property": "minecraft:custom_model_data",
-          "cases": [
-            {
-              "when": "hand_fan",
-              "model": {
-                "type": "minecraft:model",
-                "model": "coldsweat_namespace:item/hand_fan_0"
-              }
-            }
-          ],
-          "fallback": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/music_disc_11"
-          }
-        },
-        "threshold": 0.25
-      },
-      {
-        "model": {
-          "type": "minecraft:select",
-          "property": "minecraft:custom_model_data",
-          "cases": [
-            {
-              "when": "hand_fan",
-              "model": {
-                "type": "minecraft:model",
-                "model": "coldsweat_namespace:item/hand_fan_1"
-              }
-            }
-          ],
-          "fallback": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/music_disc_11"
-          }
-        },
-        "threshold": 0.5
-      },
-      {
-        "model": {
-          "type": "minecraft:select",
-          "property": "minecraft:custom_model_data",
-          "cases": [
-            {
-              "when": "hand_fan",
-              "model": {
-                "type": "minecraft:model",
-                "model": "coldsweat_namespace:item/hand_fan_2"
-              }
-            }
-          ],
-          "fallback": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/music_disc_11"
-          }
-        },
-        "threshold": 0.75
-      }
-    ],
-    "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/music_disc_13"
-    },
-    "period": 10,
-    "property": "minecraft:use_cycle",
-    "scale": 0.1
-  }
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:custom_model_data",
+					"cases": [
+						{
+							"when": "hand_fan",
+							"model": {
+								"type": "minecraft:model",
+								"model": "minecraft:item/hand_fan_0"
+							}
+						}
+					]
+				},
+				"threshold": 0.25
+			},
+			{
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:custom_model_data",
+					"cases": [
+						{
+							"when": "hand_fan",
+							"model": {
+								"type": "minecraft:model",
+								"model": "minecraft:item/hand_fan_1"
+							}
+						}
+					]
+				},
+				"threshold": 0.5
+			},
+			{
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:custom_model_data",
+					"cases": [
+						{
+							"when": "hand_fan",
+							"model": {
+								"type": "minecraft:model",
+								"model": "minecraft:item/hand_fan_2"
+							}
+						}
+					]
+				},
+				"threshold": 0.75
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/music_disc_13"
+		},
+		"period": 10,
+		"property": "minecraft:use_cycle",
+		"scale": 0.1
+	}
 }
