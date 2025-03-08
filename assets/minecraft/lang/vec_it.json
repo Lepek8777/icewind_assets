@@ -1,9 +1,11 @@
 {
-"sleep.players_sleeping": "",
-"sleep.skipping_night": "",
-"block.minecraft.bed.no_sleep": "",
-"block.minecraft.bed.not_safe": "",
-"block.minecraft.bed.obstructed": "",
-"block.minecraft.bed.occupied": "",
-"block.minecraft.bed.too_far_away": ""
+  "sleep.players_sleeping": "",
+  "sleep.skipping_night": "",
+  "block.minecraft.bed.no_sleep": "",
+  "block.minecraft.bed.not_safe": "",
+  "block.minecraft.bed.obstructed": "",
+  "block.minecraft.bed.occupied": "",
+  "block.minecraft.bed.too_far_away": "",
+  "item.coldsweat_datapack.waterskin": "Borsega",
+  "item.coldsweat_datapack.filled_waterskin": "Borsega piena"
 }
