@@ -57,15 +57,28 @@
 					],
 					"fallback": {
 						"type": "minecraft:model",
-						"model": "minecraft:item/music_disc_13"
+						"model": "minecraft:item/music_disc_11"
 					}
 				},
 				"threshold": 0.75
 			}
 		],
 		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/music_disc_13"
+			"type": "minecraft:select",
+			"property": "minecraft:custom_model_data",
+			"cases": [
+				{
+					"when": "hand_fan",
+					"model": {
+						"type": "minecraft:model",
+						"model": "coldsweat_namespace:item/hand_fan_2"
+					}
+				}
+			],
+			"fallback": {
+				"type": "minecraft:model",
+				"model": "minecraft:item/music_disc_11"
+			}
 		},
 		"period": 10,
 		"property": "minecraft:use_cycle",
