@@ -71,7 +71,7 @@
 					"when": "hand_fan",
 					"model": {
 						"type": "minecraft:model",
-						"model": "coldsweat_namespace:item/hand_fan"
+						"model": "minecraft:item/netherite_ingot"
 					}
 				}
 			],
