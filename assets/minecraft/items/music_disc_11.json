@@ -65,7 +65,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/music_disc_11"
+      "model": "minecraft:item/music_disc_13"
     },
     "period": 10,
     "property": "minecraft:use_cycle",
