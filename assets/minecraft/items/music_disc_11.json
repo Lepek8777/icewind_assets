@@ -17,7 +17,7 @@
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/music_disc_13"
+            "model": "minecraft:item/music_disc_11"
           }
         },
         "threshold": 0.25
@@ -37,7 +37,7 @@
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/music_disc_13"
+            "model": "minecraft:item/music_disc_11"
           }
         },
         "threshold": 0.5
@@ -57,7 +57,7 @@
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/music_disc_13"
+            "model": "minecraft:item/music_disc_11"
           }
         },
         "threshold": 0.75
@@ -65,7 +65,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/music_disc_13"
+      "model": "minecraft:item/music_disc_11"
     },
     "period": 10,
     "property": "minecraft:use_cycle",
