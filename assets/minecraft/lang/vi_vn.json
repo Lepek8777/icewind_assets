@@ -7,5 +7,6 @@
   "block.minecraft.bed.occupied": "",
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Bình da",
-  "item.coldsweat_datapack.filled_waterskin": "Bình da đầy"
+  "item.coldsweat_datapack.filled_waterskin": "Bình da đầy",
+  "item.coldsweat_datapack.hand_fan": "Phạm vi"
 }
