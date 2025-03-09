@@ -7,5 +7,6 @@
   "block.minecraft.bed.occupied": "",
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Бурдюк",
-  "item.coldsweat_datapack.filled_waterskin": "Наполненный бурдюк"
+  "item.coldsweat_datapack.filled_waterskin": "Наполненный Бурдюк",
+  "item.coldsweat_datapack.hand_fan": "Диапазон"
 }
