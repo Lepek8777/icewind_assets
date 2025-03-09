@@ -7,5 +7,6 @@
   "block.minecraft.bed.occupied": "",
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Buko",
-  "item.coldsweat_datapack.filled_waterskin": "Buko buuxo"
+  "item.coldsweat_datapack.filled_waterskin": "Buko buuxo",
+  "item.coldsweat_datapack.hand_fan": "Range"
 }
