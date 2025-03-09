@@ -7,5 +7,6 @@
   "block.minecraft.bed.occupied": "",
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Water bladder",
-  "item.coldsweat_datapack.filled_waterskin": "Filled water bladder"
+  "item.coldsweat_datapack.filled_waterskin": "Filled water bladder",
+  "item.coldsweat_datapack.hand_fan": "Range"
 }
