@@ -11,7 +11,7 @@
 							"when": "hand_fan",
 							"model": {
 								"type": "minecraft:model",
-								"model": "minecraft:item/raw_iron"
+								"model": "coldsweat:item/hand_fan_0"
 							}
 						}
 					],
@@ -31,7 +31,7 @@
 							"when": "hand_fan",
 							"model": {
 								"type": "minecraft:model",
-								"model": "minecraft:item/iron_ingot"
+								"model": "coldsweat:item/hand_fan_1"
 							}
 						}
 					],
@@ -51,7 +51,7 @@
 							"when": "hand_fan",
 							"model": {
 								"type": "minecraft:model",
-								"model": "minecraft:item/diamond"
+								"model": "coldsweat:item/hand_fan_2"
 							}
 						}
 					],
