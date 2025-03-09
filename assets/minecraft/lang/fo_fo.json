@@ -7,5 +7,6 @@
   "block.minecraft.bed.occupied": "",
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "vatnblæddi",
-  "item.coldsweat_datapack.filled_waterskin": "fylt vatnblæddi"
+  "item.coldsweat_datapack.filled_waterskin": "fylt vatnblæddi",
+  "item.coldsweat_datapack.hand_fan": "Rað"
 }
