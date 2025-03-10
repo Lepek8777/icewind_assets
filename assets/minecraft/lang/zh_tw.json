@@ -8,5 +8,6 @@
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "皮袋",
   "item.coldsweat_datapack.filled_waterskin": "裝滿皮袋",
-  "item.coldsweat_datapack.hand_fan": "範圍"
+  "item.coldsweat_datapack.hand_fan": "範圍",
+  "enchantment.coldsweat_datapack.snow_protection": "防雪"
 }
