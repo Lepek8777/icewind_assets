@@ -25,11 +25,11 @@
       "rotation": [
         0,
         0,
-        45
+        15
       ],
       "translation": [
         0,
-        0,
+        4,
         0
       ],
       "scale": [
@@ -42,11 +42,11 @@
       "rotation": [
         0,
         0,
-        -45
+        -15
       ],
       "translation": [
         0,
-        0,
+        4,
         0
       ],
       "scale": [
