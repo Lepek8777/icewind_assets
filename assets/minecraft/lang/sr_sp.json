@@ -8,5 +8,6 @@
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Ватерскин",
   "item.coldsweat_datapack.filled_waterskin": "Пун мез",
-  "item.coldsweat_datapack.hand_fan": "Домет"
+  "item.coldsweat_datapack.hand_fan": "Домет",
+  "enchantment.coldsweat_datapack.snow_protection": "Заштита од снега"
 }
