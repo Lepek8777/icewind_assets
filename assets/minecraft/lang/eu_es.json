@@ -8,5 +8,6 @@
 "block.minecraft.bed.too_far_away": "",
 "item.coldsweat_datapack.waterskin": "Ur-larrua",
 "item.coldsweat_datapack.filled_waterskin": "Ur-larru osoa",
-"item.coldsweat_datapack.hand_fan": "Barrutia"
+"item.coldsweat_datapack.hand_fan": "Barrutia",
+"enchantment.coldsweat_datapack.snow_protection": "Elurra babestea"
 }
