@@ -8,5 +8,6 @@
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Borsega",
   "item.coldsweat_datapack.filled_waterskin": "Borsega piena",
-  "item.coldsweat_datapack.hand_fan": "Allineare"
+  "item.coldsweat_datapack.hand_fan": "Allineare",
+  "enchantment.coldsweat_datapack.snow_protection": "Protezione dalla neve"
 }
