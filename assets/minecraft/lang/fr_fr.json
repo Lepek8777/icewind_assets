@@ -8,5 +8,6 @@
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Outre",
   "item.coldsweat_datapack.filled_waterskin": "Outre rempli",
-  "item.coldsweat_datapack.hand_fan": "l' éventail"
+  "item.coldsweat_datapack.hand_fan": "l' éventail",
+  "enchantment.coldsweat_datapack.snow_protection": "Protection contre la neige"
 }
