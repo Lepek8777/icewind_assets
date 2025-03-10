@@ -8,5 +8,6 @@
 "block.minecraft.bed.too_far_away": "",
 "item.coldsweat_datapack.waterskin": "Kroc'hen dour",
 "item.coldsweat_datapack.filled_waterskin": "Ur c'hroc'hen dour leun",
-"item.coldsweat_datapack.hand_fan": "Skalfad"
+"item.coldsweat_datapack.hand_fan": "Skalfad",
+"enchantment.coldsweat_datapack.snow_protection": "Gwarez ouzh an erc'h"
 }
