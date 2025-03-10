@@ -8,5 +8,6 @@
 "block.minecraft.bed.too_far_away": "",
 "item.coldsweat_datapack.waterskin": "Akvohaŭto",
 "item.coldsweat_datapack.filled_waterskin": "Plena akvohaŭto",
-"item.coldsweat_datapack.hand_fan": "Gamo"
+"item.coldsweat_datapack.hand_fan": "Gamo",
+"enchantment.coldsweat_datapack.snow_protection": "Protekto de neĝo"
 }
