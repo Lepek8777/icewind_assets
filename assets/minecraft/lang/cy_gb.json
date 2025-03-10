@@ -8,5 +8,6 @@
 "block.minecraft.bed.too_far_away": "",
 "item.coldsweat_datapack.waterskin": "Croen dwr",
 "item.coldsweat_datapack.filled_waterskin": "Croen dwr llawn",
-"item.coldsweat_datapack.hand_fan": "Amrediad"
+"item.coldsweat_datapack.hand_fan": "Amrediad",
+"enchantment.coldsweat_datapack.snow_protection": "Amddiffyn eira"
 }
