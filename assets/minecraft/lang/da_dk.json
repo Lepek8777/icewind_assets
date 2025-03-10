@@ -8,5 +8,6 @@
 "block.minecraft.bed.too_far_away": "",
 "item.coldsweat_datapack.waterskin": "Vandskind",
 "item.coldsweat_datapack.filled_waterskin": "En fuld vandskind",
-"item.coldsweat_datapack.hand_fan": "Rækkevidde"
+"item.coldsweat_datapack.hand_fan": "Rækkevidde",
+"enchantment.coldsweat_datapack.snow_protection": "Snebeskyttelse"
 }
