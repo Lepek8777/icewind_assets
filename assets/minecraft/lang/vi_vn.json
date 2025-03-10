@@ -8,5 +8,6 @@
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Bình da",
   "item.coldsweat_datapack.filled_waterskin": "Bình da đầy",
-  "item.coldsweat_datapack.hand_fan": "Phạm vi"
+  "item.coldsweat_datapack.hand_fan": "Phạm vi",
+  "enchantment.coldsweat_datapack.snow_protection": "Bảo vệ tuyết"
 }
