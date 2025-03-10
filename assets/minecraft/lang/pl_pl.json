@@ -8,5 +8,6 @@
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Bukłak",
   "item.coldsweat_datapack.filled_waterskin": "Napełniony bukłak",
-  "item.coldsweat_datapack.hand_fan": "Wachlarz"
+  "item.coldsweat_datapack.hand_fan": "Wachlarz",
+  "enchantment.coldsweat_datapack.snow_protection": "Ochrona przed śniegiem"
 }
