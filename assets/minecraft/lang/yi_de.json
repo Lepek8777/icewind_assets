@@ -8,5 +8,6 @@
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "בקלאק",
   "item.coldsweat_datapack.filled_waterskin": "געפילטע בקלאק",
-  "item.coldsweat_datapack.hand_fan": "קייט"
+  "item.coldsweat_datapack.hand_fan": "קייט",
+  "enchantment.coldsweat_datapack.snow_protection": "שניי שוץ"
 }
