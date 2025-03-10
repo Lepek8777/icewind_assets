@@ -8,5 +8,6 @@
 "block.minecraft.bed.too_far_away": "",
 "item.coldsweat_datapack.waterskin": "Vodní kůže",
 "item.coldsweat_datapack.filled_waterskin": "Plný vodní měch",
-"item.coldsweat_datapack.hand_fan": "Rozsah"
+"item.coldsweat_datapack.hand_fan": "Rozsah",
+"enchantment.coldsweat_datapack.snow_protection": "Ochrana proti sněhu"
 }
