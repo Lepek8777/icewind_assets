@@ -8,5 +8,6 @@
 "block.minecraft.bed.too_far_away": "",
 "item.coldsweat_datapack.waterskin": "Piel di aghe",
 "item.coldsweat_datapack.filled_waterskin": "Une piel di aghe plene",
-"item.coldsweat_datapack.hand_fan": "Sielte"
+"item.coldsweat_datapack.hand_fan": "Sielte",
+"enchantment.coldsweat_datapack.snow_protection": "Protezion cuintri la nêf"
 }
