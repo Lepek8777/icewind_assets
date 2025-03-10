@@ -8,5 +8,6 @@
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Бурдюк",
   "item.coldsweat_datapack.filled_waterskin": "Наполненный Бурдюк",
-  "item.coldsweat_datapack.hand_fan": "Диапазон"
+  "item.coldsweat_datapack.hand_fan": "Диапазон",
+  "enchantment.coldsweat_datapack.snow_protection": "Защита от снега"
 }
