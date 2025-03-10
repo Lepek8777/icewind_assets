@@ -8,5 +8,6 @@
   "block.minecraft.bed.too_far_away": "",
   "item.coldsweat_datapack.waterskin": "Botella de cuero",
   "item.coldsweat_datapack.filled_waterskin": "Botella de agua llena",
-  "item.coldsweat_datapack.hand_fan": "Rango"
+  "item.coldsweat_datapack.hand_fan": "Rango",
+  "enchantment.coldsweat_datapack.snow_protection": "Protección contra la nieve"
 }
