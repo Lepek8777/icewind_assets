@@ -8,5 +8,6 @@
 "block.minecraft.bed.too_far_away": "",
 "item.coldsweat_datapack.waterskin": "پوست آب",
 "item.coldsweat_datapack.filled_waterskin": "یک پوسته آبی کامل",
-"item.coldsweat_datapack.hand_fan": "محدوده"
+"item.coldsweat_datapack.hand_fan": "محدوده",
+"enchantment.coldsweat_datapack.snow_protection": "حفاظت از برف"
 }
