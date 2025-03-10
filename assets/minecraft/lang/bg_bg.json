@@ -8,5 +8,6 @@
 "block.minecraft.bed.too_far_away": "",
 "item.coldsweat_datapack.waterskin": "Мех за вода",
 "item.coldsweat_datapack.filled_waterskin": "Пълен мех с вода",
-"item.coldsweat_datapack.hand_fan": "Обхват"
+"item.coldsweat_datapack.hand_fan": "Обхват",
+"enchantment.coldsweat_datapack.snow_protection": "Защита от сняг"
 }
