@@ -9,5 +9,7 @@
   "item.coldsweat_datapack.waterskin": "Бурдужа",
   "item.coldsweat_datapack.filled_waterskin": "Напуњена бурдужа",
   "item.coldsweat_datapack.hand_fan": "Домет",
-  "enchantment.coldsweat_datapack.snow_protection": "Zaštita od snijega"
+  "enchantment.coldsweat_datapack.snow_protection": "Zaštita od snijega",
+  "death.attack.hyponatremia": "%1$s umro od posljedica hiponatrijemije",
+  "death.attack.hyponatremia.player": "%1$s umro od posljedica hiponatrijemije tijekom borbe %2$s"
 }
