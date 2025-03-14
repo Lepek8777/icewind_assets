@@ -1,13 +1,15 @@
 {
-"sleep.players_sleeping": "",
-"sleep.skipping_night": "",
-"block.minecraft.bed.no_sleep": "",
-"block.minecraft.bed.not_safe": "",
-"block.minecraft.bed.obstructed": "",
-"block.minecraft.bed.occupied": "",
-"block.minecraft.bed.too_far_away": "",
-"item.coldsweat_datapack.waterskin": "Vodní kůže",
-"item.coldsweat_datapack.filled_waterskin": "Plný vodní měch",
-"item.coldsweat_datapack.hand_fan": "Rozsah",
-"enchantment.coldsweat_datapack.snow_protection": "Ochrana proti sněhu"
+  "sleep.players_sleeping": "",
+  "sleep.skipping_night": "",
+  "block.minecraft.bed.no_sleep": "",
+  "block.minecraft.bed.not_safe": "",
+  "block.minecraft.bed.obstructed": "",
+  "block.minecraft.bed.occupied": "",
+  "block.minecraft.bed.too_far_away": "",
+  "item.coldsweat_datapack.waterskin": "Vodní kůže",
+  "item.coldsweat_datapack.filled_waterskin": "Plný vodní měch",
+  "item.coldsweat_datapack.hand_fan": "Rozsah",
+  "enchantment.coldsweat_datapack.snow_protection": "Ochrana proti sněhu",
+  "death.attack.hyponatremia": "%1$s zemřel na následky hyponatremie",
+  "death.attack.hyponatremia.player": "%1$s zemřel na následky hyponatrémie při boji %2$s"
 }
