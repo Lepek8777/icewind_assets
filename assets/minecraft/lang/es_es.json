@@ -9,5 +9,7 @@
   "item.coldsweat_datapack.waterskin": "Botella de cuero",
   "item.coldsweat_datapack.filled_waterskin": "Botella de agua llena",
   "item.coldsweat_datapack.hand_fan": "Rango",
-  "enchantment.coldsweat_datapack.snow_protection": "Protección contra la nieve"
+  "enchantment.coldsweat_datapack.snow_protection": "Protección contra la nieve",
+  "death.attack.hyponatremia": "%1$s murió como resultado de hiponatremia",
+  "death.attack.hyponatremia.player": "%1$s murió como resultado de hiponatremia mientras luchaba %2$s"
 }
