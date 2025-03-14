@@ -9,5 +9,7 @@
   "item.coldsweat_datapack.waterskin": "Ватерскин",
   "item.coldsweat_datapack.filled_waterskin": "Пун мез",
   "item.coldsweat_datapack.hand_fan": "Домет",
-  "enchantment.coldsweat_datapack.snow_protection": "Заштита од снега"
+  "enchantment.coldsweat_datapack.snow_protection": "Заштита од снега",
+  "death.attack.hyponatremia": "%1$s умро од последица хипонатремије",
+  "death.attack.hyponatremia.player": "%1$s умро од последица хипонатремије током борбе %2$s"
 }
