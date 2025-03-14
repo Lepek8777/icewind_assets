@@ -9,5 +9,7 @@
   "item.coldsweat_datapack.waterskin": "Bukłak",
   "item.coldsweat_datapack.filled_waterskin": "Napełniony bukłak",
   "item.coldsweat_datapack.hand_fan": "Wachlarz",
-  "enchantment.coldsweat_datapack.snow_protection": "Ochrona przed śniegiem"
+  "enchantment.coldsweat_datapack.snow_protection": "Ochrona przed śniegiem",
+  "death.attack.hyponatremia": "%1$s zmarł w wyniku hiponatremii",
+  "death.attack.hyponatremia.player": "%1$s zmarł w wyniku hiponatremii podczas walki %2$s"
 }
