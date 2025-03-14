@@ -9,5 +9,7 @@
   "item.coldsweat_datapack.waterskin": "皮袋",
   "item.coldsweat_datapack.filled_waterskin": "裝滿皮袋",
   "item.coldsweat_datapack.hand_fan": "範圍",
-  "enchantment.coldsweat_datapack.snow_protection": "防雪"
+  "enchantment.coldsweat_datapack.snow_protection": "防雪",
+  "death.attack.hyponatremia": "%1$s 因低钠血症死亡",
+  "death.attack.hyponatremia.player": "%1$s 战斗中因低钠血症死亡 %2$s"
 }
