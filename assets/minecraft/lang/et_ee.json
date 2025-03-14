@@ -1,13 +1,15 @@
 {
-"sleep.players_sleeping": "",
-"sleep.skipping_night": "",
-"block.minecraft.bed.no_sleep": "",
-"block.minecraft.bed.not_safe": "",
-"block.minecraft.bed.obstructed": "",
-"block.minecraft.bed.occupied": "",
-"block.minecraft.bed.too_far_away": "",
-"item.coldsweat_datapack.waterskin": "Vesinahk",
-"item.coldsweat_datapack.filled_waterskin": "Täielik vesinahk",
-"item.coldsweat_datapack.hand_fan": "Vahemik",
-"enchantment.coldsweat_datapack.snow_protection": "Lumekaitse"
+  "sleep.players_sleeping": "",
+  "sleep.skipping_night": "",
+  "block.minecraft.bed.no_sleep": "",
+  "block.minecraft.bed.not_safe": "",
+  "block.minecraft.bed.obstructed": "",
+  "block.minecraft.bed.occupied": "",
+  "block.minecraft.bed.too_far_away": "",
+  "item.coldsweat_datapack.waterskin": "Vesinahk",
+  "item.coldsweat_datapack.filled_waterskin": "Täielik vesinahk",
+  "item.coldsweat_datapack.hand_fan": "Vahemik",
+  "enchantment.coldsweat_datapack.snow_protection": "Lumekaitse",
+  "death.attack.hyponatremia": "%1$s suri hüponatreemia tagajärjel",
+  "death.attack.hyponatremia.player": "%1$s suri võitluse ajal hüponatreemia tagajärjel %2$s"
 }
