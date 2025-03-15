@@ -9,6 +9,7 @@
 "item.coldsweat_datapack.waterskin": "Waterskin",
 "item.coldsweat_datapack.filled_waterskin": "Filled Waterskin",
 "item.coldsweat_datapack.hand_fan": "Range",
+"item.coldsweat_datapack.melon_ice_cream": "Melon Ice Cream",
 "enchantment.coldsweat_datapack.snow_protection": "Snow Protection",
 "death.attack.hyponatremia": "%1$s died as a result of hyponatremia",
 "death.attack.hyponatremia.player": "%1$s died as a result of hyponatremia while fighting %2$s"
