@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "coldsweat_namespace:item/melon_ice_cream"
 	}
