@@ -37,6 +37,13 @@
           "type": "minecraft:model",
           "model": "coldsweat_namespace:item/melon_ice_cream"
         }
+      },
+      {
+        "when": "sweet_berry_ice_cream",
+        "model": {
+          "type": "minecraft:model",
+          "model": "coldsweat_namespace:item/sweet_berry_ice_cream"
+        }
       }
     ],
     "fallback": {
