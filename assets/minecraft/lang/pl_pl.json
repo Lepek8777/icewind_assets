@@ -9,7 +9,8 @@
   "item.coldsweat_datapack.waterskin": "Bukłak",
   "item.coldsweat_datapack.filled_waterskin": "Napełniony bukłak",
   "item.coldsweat_datapack.hand_fan": "Wachlarz",
-  "item.coldsweat_datapack.melon_ice_cream": "Lody arbuzowe",
+  "item.coldsweat_datapack.melon_ice_cream": "Lód arbuzowy",
+  "item.coldsweat_datapack.sweet_berry_ice_cream": "Lód jagodowy",
   "enchantment.coldsweat_datapack.snow_protection": "Ochrona przed śniegiem",
   "death.attack.hyponatremia": "%1$s zmarł w wyniku hiponatremii",
   "death.attack.hyponatremia.player": "%1$s zmarł w wyniku hiponatremii podczas walki %2$s"
