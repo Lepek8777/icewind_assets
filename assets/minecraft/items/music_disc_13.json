@@ -44,6 +44,13 @@
           "type": "minecraft:model",
           "model": "coldsweat_namespace:item/sweet_berry_ice_cream"
         }
+      },
+      {
+        "when": "cooked_egg",
+        "model": {
+          "type": "minecraft:model",
+          "model": "coldsweat_namespace:item/cooked_egg"
+        }
       }
     ],
     "fallback": {
