@@ -4,17 +4,17 @@
     "layer0": "coldsweat_namespace:item/cooked_egg"
   },
   "display": {
-    "firstperson_righthand": {
+    "thirdperson_righthand": {
       "translation": [
         0,
-        -20,
+        -1,
         0
       ]
     },
-    "firstperson_lefthand": {
+    "thirdperson_lefthand": {
       "translation": [
         0,
-        -20,
+        -1,
         0
       ]
     }
