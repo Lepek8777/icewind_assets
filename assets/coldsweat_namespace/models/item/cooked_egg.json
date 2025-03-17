@@ -1,6 +1,22 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "coldsweat_namespace:item/cooked_egg"
-	}
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "coldsweat_namespace:item/cooked_egg"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        -1,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        -1,
+        0
+      ]
+    }
+  }
 }
