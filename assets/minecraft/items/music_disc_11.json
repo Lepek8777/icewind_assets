@@ -14,8 +14,8 @@
                 "model": "coldsweat_namespace:item/hand_fan_0",
                 "tints": [
                   {
-                    "type": "minecraft:dye",
-                    "default": 16777215
+                    "type": "minecraft:constant",
+                    "value": 15987185
                   }
                 ]
               }
@@ -40,8 +40,8 @@
                 "model": "coldsweat_namespace:item/hand_fan_1",
                 "tints": [
                   {
-                    "type": "minecraft:dye",
-                    "default": 16777215
+                    "type": "minecraft:constant",
+                    "value": 15987185
                   }
                 ]
               }
@@ -66,8 +66,8 @@
                 "model": "coldsweat_namespace:item/hand_fan_2",
                 "tints": [
                   {
-                    "type": "minecraft:dye",
-                    "default": 16777215
+                    "type": "minecraft:constant",
+                    "value": 15987185
                   }
                 ]
               }
@@ -92,8 +92,8 @@
             "model": "coldsweat_namespace:item/hand_fan",
             "tints": [
               {
-                "type": "minecraft:dye",
-                "default": 16777215
+                "type": "minecraft:constant",
+                "value": 15987185
               }
             ]
           }
