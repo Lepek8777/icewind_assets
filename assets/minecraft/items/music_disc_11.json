@@ -16,9 +16,9 @@
                   {
                     "type": "minecraft:dye",
                     "default": [
-                      0,
-                      0,
-                      0
+                      255,
+                      255,
+                      255
                     ]
                   }
                 ]
@@ -46,9 +46,9 @@
                   {
                     "type": "minecraft:dye",
                     "default": [
-                      0,
-                      0,
-                      0
+                      255,
+                      255,
+                      255
                     ]
                   }
                 ]
@@ -76,9 +76,9 @@
                   {
                     "type": "minecraft:dye",
                     "default": [
-                      0,
-                      0,
-                      0
+                      255,
+                      255,
+                      255
                     ]
                   }
                 ]
@@ -106,9 +106,9 @@
               {
                 "type": "minecraft:dye",
                 "default": [
-                  0,
-                  0,
-                  0
+                  255,
+                  255,
+                  255
                 ]
               }
             ]
