@@ -9,6 +9,9 @@
   "item.coldsweat_datapack.waterskin": "Botella de cuero",
   "item.coldsweat_datapack.filled_waterskin": "Botella de agua llena",
   "item.coldsweat_datapack.hand_fan": "Rango",
+  "item.coldsweat_datapack.melon_ice_cream": "Helado De Sandia",
+  "item.coldsweat_datapack.sweet_berry_ice_cream": "Helado De Arándanos",
+  "item.coldsweat_datapack.cooked_egg": "Huevo Frito",
   "enchantment.coldsweat_datapack.snow_protection": "Protección contra la nieve",
   "death.attack.hyponatremia": "%1$s murió como resultado de hiponatremia",
   "death.attack.hyponatremia.player": "%1$s murió como resultado de hiponatremia mientras luchaba %2$s"
