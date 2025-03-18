@@ -9,6 +9,9 @@
   "item.coldsweat_datapack.waterskin": "Outre",
   "item.coldsweat_datapack.filled_waterskin": "Outre rempli",
   "item.coldsweat_datapack.hand_fan": "l' éventail",
+  "item.coldsweat_datapack.melon_ice_cream": "Glace à La Pastèque",
+  "item.coldsweat_datapack.sweet_berry_ice_cream": "Glace Aux Myrtilles",
+  "item.coldsweat_datapack.cooked_egg": "Oeuf Au Plat",
   "enchantment.coldsweat_datapack.snow_protection": "Protection contre la neige",
   "death.attack.hyponatremia": "%1$s décédé des suites d'une hyponatrémie",
   "death.attack.hyponatremia.player": "%1$s est décédé des suites d'une hyponatrémie alors qu'il combattait %2$s"
