@@ -9,6 +9,9 @@
   "item.coldsweat_datapack.waterskin": "Vodní kůže",
   "item.coldsweat_datapack.filled_waterskin": "Plný vodní měch",
   "item.coldsweat_datapack.hand_fan": "Rozsah",
+  "item.coldsweat_datapack.melon_ice_cream": "Melounová Zmrzlina",
+  "item.coldsweat_datapack.sweet_berry_ice_cream": "Borůvková Zmrzlina",
+  "item.coldsweat_datapack.cooked_egg": "Volské Oko",
   "enchantment.coldsweat_datapack.snow_protection": "Ochrana proti sněhu",
   "death.attack.hyponatremia": "%1$s zemřel na následky hyponatremie",
   "death.attack.hyponatremia.player": "%1$s zemřel na následky hyponatrémie při boji %2$s"
