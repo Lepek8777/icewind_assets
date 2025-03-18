@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "coldsweat_namespace:item/hand_fan",
+		"layer0": "coldsweat_namespace:item/hand_fan0",
                 "layer1": "coldsweat_namespace:item/hand_fan1"
 	},
 	"display": {
