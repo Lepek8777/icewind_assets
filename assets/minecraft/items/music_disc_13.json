@@ -58,6 +58,13 @@
           "type": "minecraft:model",
           "model": "coldsweat_namespace:item/catfish"
         }
+      },
+      {
+        "when": "argentine",
+        "model": {
+          "type": "minecraft:model",
+          "model": "coldsweat_namespace:item/argentine"
+        }
       }
     ],
     "fallback": {
