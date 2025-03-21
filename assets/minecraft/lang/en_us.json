@@ -20,5 +20,7 @@
 "death.attack.hyponatremia": "%1$s died as a result of hyponatremia",
 "death.attack.hyponatremia.player": "%1$s died as a result of hyponatremia while fighting %2$s",
 "item.waterskin.pour": "Water pouring",
-"item.waterskin.fill": "Filling waterskin" 
+"item.waterskin.fill": "Filling waterskin",
+"advancements.coldsweat_datapack.goldfish_eaten.title": "",
+"advancements.coldsweat_datapack.goldfish_eaten.description": ""
 }
