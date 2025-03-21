@@ -65,6 +65,13 @@
           "type": "minecraft:model",
           "model": "coldsweat_namespace:item/argentine"
         }
+      },
+      {
+        "when": "goldfish",
+        "model": {
+          "type": "minecraft:model",
+          "model": "coldsweat_namespace:item/goldfish"
+        }
       }
     ],
     "fallback": {
