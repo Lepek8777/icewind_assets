@@ -6,7 +6,7 @@
 "block.minecraft.bed.obstructed": "",
 "block.minecraft.bed.occupied": "",
 "block.minecraft.bed.too_far_away": "",
-"item.coldsweat_datapack.waterskin": "Waterskin",
-"item.coldsweat_datapack.filled_waterskin": "Filled Waterskin",
-"item.coldsweat_datapack.hand_fan": "Range"
+"item.coldsweat_datapack.waterskin": "جلدة الماء",
+"item.coldsweat_datapack.filled_waterskin": "قربة الماء المملوءة",
+"item.coldsweat_datapack.hand_fan": "يتراوح"
 }
