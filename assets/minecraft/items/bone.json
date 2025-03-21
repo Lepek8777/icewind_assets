@@ -9,6 +9,13 @@
           "type": "minecraft:model",
           "model": "coldsweat_namespace:item/fish_skeleton"
         }
+      },
+      {
+        "when": "fish_skeleton_pufferfish",
+        "model": {
+          "type": "minecraft:model",
+          "model": "coldsweat_namespace:item/fish_skeleton_pufferfish"
+        }
       }
     ],
     "fallback": {
