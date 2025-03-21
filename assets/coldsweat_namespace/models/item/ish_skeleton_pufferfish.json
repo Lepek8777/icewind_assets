@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "coldsweat_namespace:item/fish_skeleton_pufferfish"
+	}
+}
