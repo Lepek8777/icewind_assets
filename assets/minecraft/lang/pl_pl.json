@@ -20,5 +20,7 @@
   "death.attack.hyponatremia": "%1$s zmarł w wyniku hiponatremii",
   "death.attack.hyponatremia.player": "%1$s zmarł w wyniku hiponatremii podczas walki %2$s",
   "item.waterskin.pour": "Wylewanie wody",
-  "item.waterskin.fill": "Napełnianie bukłaka" 
+  "item.waterskin.fill": "Napełnianie bukłaka"
+  "advancements.coldsweat_datapack.goldfish_eaten.title": "Przeżuty Los",
+  "advancements.coldsweat_datapack.goldfish_eaten.description": "Bo po co prosić o trzy życzenia, skoro można zjeść ich źródło?"
 }
