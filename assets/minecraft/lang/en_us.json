@@ -14,6 +14,7 @@
 "item.coldsweat_datapack.cooked_egg": "Fried Egg",
 "item.coldsweat_datapack.catfish": "Catfish",
 "item.coldsweat_datapack.fish_skeleton": "Fish Skeleton",
+"item.coldsweat_datapack.argentine": "Argentine",
 "enchantment.coldsweat_datapack.snow_protection": "Snow Protection",
 "death.attack.hyponatremia": "%1$s died as a result of hyponatremia",
 "death.attack.hyponatremia.player": "%1$s died as a result of hyponatremia while fighting %2$s",
