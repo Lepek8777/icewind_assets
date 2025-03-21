@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "fish_skeleton",
+        "model": {
+          "type": "minecraft:model",
+          "model": "coldsweat_namespace:item/fish_skeleton"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bone"
+    }
+  }
+}
