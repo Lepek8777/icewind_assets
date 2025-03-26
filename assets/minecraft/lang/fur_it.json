@@ -1,0 +1,13 @@
+{
+"sleep.players_sleeping": "",
+"sleep.skipping_night": "",
+"block.minecraft.bed.no_sleep": "",
+"block.minecraft.bed.not_safe": "",
+"block.minecraft.bed.obstructed": "",
+"block.minecraft.bed.occupied": "",
+"block.minecraft.bed.too_far_away": "",
+"item.icewind.waterskin": "Piel di aghe",
+"item.icewind.filled_waterskin": "Une piel di aghe plene",
+"item.icewind.hand_fan": "Sielte",
+"enchantment.icewind.snow_protection": "Protezion cuintri la nêf"
+}

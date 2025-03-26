@@ -1,0 +1,15 @@
+{
+  "sleep.players_sleeping": "",
+  "sleep.skipping_night": "",
+  "block.minecraft.bed.no_sleep": "",
+  "block.minecraft.bed.not_safe": "",
+  "block.minecraft.bed.obstructed": "",
+  "block.minecraft.bed.occupied": "",
+  "block.minecraft.bed.too_far_away": "",
+  "item.icewind.waterskin": "皮袋",
+  "item.icewind.filled_waterskin": "裝滿皮袋",
+  "item.icewind.hand_fan": "範圍",
+  "enchantment.icewind.snow_protection": "防雪",
+  "death.attack.hyponatremia": "%1$s 因低钠血症死亡",
+  "death.attack.hyponatremia.player": "%1$s 战斗中因低钠血症死亡 %2$s"
+}

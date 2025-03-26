@@ -1,0 +1,20 @@
+{
+"sleep.players_sleeping": "",
+"sleep.skipping_night": "",
+"block.minecraft.bed.no_sleep": "",
+"block.minecraft.bed.not_safe": "",
+"block.minecraft.bed.obstructed": "",
+"block.minecraft.bed.occupied": "",
+"block.minecraft.bed.too_far_away": "",
+"item.icewind.waterskin": "หนังน้ำ",
+"item.icewind.filled_waterskin": "หนังน้ำ",
+"item.icewind.melon_ice_cream": "ไอศกรีมเมลอน",
+"item.icewind.sweet_berry_ice_cream": "ไอศกรีมสวีทเบอร์รี่",
+"item.icewind.cooked_egg": "ไข่ดาว",
+"enchantment.icewind.snow_protection": "การป้องกันหิมะ",
+"death.attack.hyponatremia": "%1$s เสียชีวิตเนื่องจากภาวะโซเดียมในเลือดต่ำ",
+"death.attack.hyponatremia.player": "%1$s เสียชีวิตเนื่องจากภาวะโซเดียมในเลือดต่ำขณะต่อสู้ %2$s",
+"item.waterskin.pour": "เทน้ำ",
+"item.waterskin.fill": "เติมหนังน้ำ" 
+"item.icewind.hand_fan": "พิสัย"
+}

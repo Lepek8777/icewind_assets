@@ -1,0 +1,15 @@
+{
+  "sleep.players_sleeping": "",
+  "sleep.skipping_night": "",
+  "block.minecraft.bed.no_sleep": "",
+  "block.minecraft.bed.not_safe": "",
+  "block.minecraft.bed.obstructed": "",
+  "block.minecraft.bed.occupied": "",
+  "block.minecraft.bed.too_far_away": "",
+  "item.icewind.waterskin": "בקלאק",
+  "item.icewind.filled_waterskin": "געפילטע בקלאק",
+  "item.icewind.hand_fan": "קייט",
+  "enchantment.icewind.snow_protection": "שניי שוץ",
+  "death.attack.hyponatremia": "%1$s געשטארבן ווי אַ רעזולטאַט פון היפּאָנאַטרעמיאַ",
+  "death.attack.hyponatremia.player": "%1$s געשטארבן ווי אַ רעזולטאַט פון היפּאָנאַטרעמיאַ בשעת פייטינג %2$s"
+}

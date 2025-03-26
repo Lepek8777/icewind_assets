@@ -1,0 +1,18 @@
+{
+  "sleep.players_sleeping": "",
+  "sleep.skipping_night": "",
+  "block.minecraft.bed.no_sleep": "",
+  "block.minecraft.bed.not_safe": "",
+  "block.minecraft.bed.obstructed": "",
+  "block.minecraft.bed.occupied": "",
+  "block.minecraft.bed.too_far_away": "",
+  "item.icewind.waterskin": "Outre",
+  "item.icewind.filled_waterskin": "Outre rempli",
+  "item.icewind.hand_fan": "l' éventail",
+  "item.icewind.melon_ice_cream": "Glace à La Pastèque",
+  "item.icewind.sweet_berry_ice_cream": "Glace Aux Myrtilles",
+  "item.icewind.cooked_egg": "Oeuf Au Plat",
+  "enchantment.icewind.snow_protection": "Protection contre la neige",
+  "death.attack.hyponatremia": "%1$s décédé des suites d'une hyponatrémie",
+  "death.attack.hyponatremia.player": "%1$s est décédé des suites d'une hyponatrémie alors qu'il combattait %2$s"
+}

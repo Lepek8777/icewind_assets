@@ -1,0 +1,15 @@
+{
+  "sleep.players_sleeping": "",
+  "sleep.skipping_night": "",
+  "block.minecraft.bed.no_sleep": "",
+  "block.minecraft.bed.not_safe": "",
+  "block.minecraft.bed.obstructed": "",
+  "block.minecraft.bed.occupied": "",
+  "block.minecraft.bed.too_far_away": "",
+  "item.icewind.waterskin": "Бурдзюк",
+  "item.icewind.filled_waterskin": "Поўны мех",
+  "item.icewind.hand_fan": "Дыяпазон",
+  "enchantment.icewind.snow_protection": "Снегаабарона",
+  "death.attack.hyponatremia": "%1$s памёр у выніку гіпанатрыеміі",
+  "death.attack.hyponatremia.player": "%1$s памёр у выніку гіпанатрыеміі падчас бою %2$s"
+}

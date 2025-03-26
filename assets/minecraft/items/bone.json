@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "fish_skeleton",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/fish_skeleton"
+        }
+      },
+      {
+        "when": "fish_skeleton_pufferfish",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/fish_skeleton_pufferfish"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bone"
+    }
+  }
+}

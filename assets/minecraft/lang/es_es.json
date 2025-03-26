@@ -1,0 +1,18 @@
+{
+  "sleep.players_sleeping": "",
+  "sleep.skipping_night": "",
+  "block.minecraft.bed.no_sleep": "",
+  "block.minecraft.bed.not_safe": "",
+  "block.minecraft.bed.obstructed": "",
+  "block.minecraft.bed.occupied": "",
+  "block.minecraft.bed.too_far_away": "",
+  "item.icewind.waterskin": "Botella de cuero",
+  "item.icewind.filled_waterskin": "Botella de agua llena",
+  "item.icewind.hand_fan": "Rango",
+  "item.icewind.melon_ice_cream": "Helado De Sandia",
+  "item.icewind.sweet_berry_ice_cream": "Helado De Arándanos",
+  "item.icewind.cooked_egg": "Huevo Frito",
+  "enchantment.icewind.snow_protection": "Protección contra la nieve",
+  "death.attack.hyponatremia": "%1$s murió como resultado de hiponatremia",
+  "death.attack.hyponatremia.player": "%1$s murió como resultado de hiponatremia mientras luchaba %2$s"
+}

@@ -1,0 +1,15 @@
+{
+  "sleep.players_sleeping": "",
+  "sleep.skipping_night": "",
+  "block.minecraft.bed.no_sleep": "",
+  "block.minecraft.bed.not_safe": "",
+  "block.minecraft.bed.obstructed": "",
+  "block.minecraft.bed.occupied": "",
+  "block.minecraft.bed.too_far_away": "",
+  "item.icewind.waterskin": "Borsega",
+  "item.icewind.filled_waterskin": "Borsega piena",
+  "item.icewind.hand_fan": "Allineare",
+  "enchantment.icewind.snow_protection": "Protezione dalla neve",
+  "death.attack.hyponatremia": "%1$s morto a causa di iponatriemia",
+  "death.attack.hyponatremia.player": "%1$s morì a causa di iponatriemia durante un combattimento %2$s"
+}

@@ -1,0 +1,82 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "filled_waterskin",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/filled_waterskin"
+        }
+      },
+      {
+        "when": "waterskin",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/waterskin"
+        }
+      },
+      {
+        "when": "waterskin_cold",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/waterskin_cold"
+        }
+      },
+      {
+        "when": "waterskin_hot",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/waterskin_hot"
+        }
+      },
+      {
+        "when": "melon_ice_cream",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/melon_ice_cream"
+        }
+      },
+      {
+        "when": "sweet_berry_ice_cream",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/sweet_berry_ice_cream"
+        }
+      },
+      {
+        "when": "cooked_egg",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/cooked_egg"
+        }
+      },
+      {
+        "when": "catfish",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/catfish"
+        }
+      },
+      {
+        "when": "argentine",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/argentine"
+        }
+      },
+      {
+        "when": "goldfish",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/goldfish"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/music_disc_13"
+    }
+  }
+}

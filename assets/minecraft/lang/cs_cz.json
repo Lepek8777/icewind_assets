@@ -1,0 +1,18 @@
+{
+  "sleep.players_sleeping": "",
+  "sleep.skipping_night": "",
+  "block.minecraft.bed.no_sleep": "",
+  "block.minecraft.bed.not_safe": "",
+  "block.minecraft.bed.obstructed": "",
+  "block.minecraft.bed.occupied": "",
+  "block.minecraft.bed.too_far_away": "",
+  "item.icewind.waterskin": "Vodní kůže",
+  "item.icewind.filled_waterskin": "Plný vodní měch",
+  "item.icewind.hand_fan": "Rozsah",
+  "item.icewind.melon_ice_cream": "Melounová Zmrzlina",
+  "item.icewind.sweet_berry_ice_cream": "Borůvková Zmrzlina",
+  "item.icewind.cooked_egg": "Volské Oko",
+  "enchantment.icewind.snow_protection": "Ochrana proti sněhu",
+  "death.attack.hyponatremia": "%1$s zemřel na následky hyponatremie",
+  "death.attack.hyponatremia.player": "%1$s zemřel na následky hyponatrémie při boji %2$s"
+}
