@@ -5,63 +5,63 @@
             "file": "icewind:gui/indicator/1.png",
             "ascent": -16,
             "height": 10,
-            "chars": ["\uE001"]
+            "chars": ["\uEb01"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/2.png",
             "ascent": -16,
             "height": 10,
-            "chars": ["\uE002"]
+            "chars": ["\uEb02"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/3.png",
             "ascent": -16,
             "height": 10,
-            "chars": ["\uE003"]
+            "chars": ["\uEb03"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/4.png",
             "ascent": -16,
             "height": 10,
-            "chars": ["\uE004"]
+            "chars": ["\uEb04"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/5.png",
             "ascent": -16,
             "height": 10,
-            "chars": ["\uE005"]
+            "chars": ["\uEb05"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/6.png",
             "ascent": -16,
             "height": 10,
-            "chars": ["\uE006"]
+            "chars": ["\uEb06"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/7.png",
             "ascent": -16,
             "height": 10,
-            "chars": ["\uE007"]
+            "chars": ["\uEb07"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/8.png",
             "ascent": -16,
             "height": 10,
-            "chars": ["\uE008"]
+            "chars": ["\uEb08"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/9.png",
             "ascent": -16,
             "height": 10,
-            "chars": ["\uE009"]
+            "chars": ["\uEb09"]
         },
         {
             "type": "ttf",
