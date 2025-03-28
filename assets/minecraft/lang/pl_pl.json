@@ -23,5 +23,7 @@
   "item.waterskin.pour": "Wylewanie wody",
   "item.waterskin.fill": "Napełnianie bukłaka",
   "advancements.icewind.goldfish_eaten.title": "Przeżuty Los",
-  "advancements.icewind.goldfish_eaten.description": "Bo po co prosić o trzy życzenia, skoro można zjeść ich źródło?"
+  "advancements.icewind.goldfish_eaten.description": "Bo po co prosić o trzy życzenia, skoro można zjeść ich źródło?",
+  "advancements.icewind.root.title": "Icewind",
+  "advancements.icewind.root.description": "Witaj zamrożony świecie!"
 }
