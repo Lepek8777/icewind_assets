@@ -72,6 +72,13 @@
           "type": "minecraft:model",
           "model": "icewind:item/goldfish"
         }
+      },
+      {
+        "when": "roll",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/roll"
+        }
       }
     ],
     "fallback": {
