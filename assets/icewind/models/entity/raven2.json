@@ -148,71 +148,78 @@
 	],
 	"groups": [
 		{
-			"name": "head",
-			"origin": [8, 8, 7.5],
-			"color": 0,
-			"children": [
-				0,
-				1,
-				2,
-				3,
-				{
-					"name": "feather",
-					"origin": [8, 9.5, 5.5],
-					"color": 0,
-					"children": []
-				}
-			]
-		},
-		{
-			"name": "body",
-			"origin": [8, 7.5, 7],
-			"color": 0,
-			"children": [4]
-		},
-		{
-			"name": "left_wing",
-			"origin": [6.5, 7.1, 7.2],
+			"name": "raven",
+			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [
 				{
-					"name": "left_wing_rotation",
-					"origin": [6.5, 4.6, 7.2],
+					"name": "head",
+					"origin": [8, 8, 7.5],
 					"color": 0,
-					"children": [5]
-				}
-			]
-		},
-		{
-			"name": "right_wing",
-			"origin": [9.5, 7.1, 7.2],
-			"color": 0,
-			"children": [
+					"children": [
+						0,
+						1,
+						2,
+						3,
+						{
+							"name": "feather",
+							"origin": [8, 9.5, 5.5],
+							"color": 0,
+							"children": []
+						}
+					]
+				},
 				{
-					"name": "right_wing_rotation",
-					"origin": [9.5, 4.6, 7.2],
+					"name": "body",
+					"origin": [8, 7.5, 7],
 					"color": 0,
-					"children": [6]
+					"children": [4]
+				},
+				{
+					"name": "left_wing",
+					"origin": [6.5, 7.1, 7.2],
+					"color": 0,
+					"children": [
+						{
+							"name": "left_wing_rotation",
+							"origin": [6.5, 4.6, 7.2],
+							"color": 0,
+							"children": [5]
+						}
+					]
+				},
+				{
+					"name": "right_wing",
+					"origin": [9.5, 7.1, 7.2],
+					"color": 0,
+					"children": [
+						{
+							"name": "right_wing_rotation",
+							"origin": [9.5, 4.6, 7.2],
+							"color": 0,
+							"children": [6]
+						}
+					]
+				},
+				{
+					"name": "left_leg",
+					"origin": [7, 2, 7],
+					"color": 0,
+					"children": [7]
+				},
+				{
+					"name": "right_leg",
+					"origin": [9, 2, 7],
+					"color": 0,
+					"children": [8]
+				},
+				{
+					"name": "tail",
+					"origin": [8, 2.9, 9.2],
+					"color": 0,
+					"children": [9]
 				}
 			]
-		},
-		{
-			"name": "left_leg",
-			"origin": [7, 2, 7],
-			"color": 0,
-			"children": [7]
-		},
-		{
-			"name": "right_leg",
-			"origin": [9, 2, 7],
-			"color": 0,
-			"children": [8]
-		},
-		{
-			"name": "tail",
-			"origin": [8, 2.9, 9.2],
-			"color": 0,
-			"children": [9]
 		}
 	]
 }
