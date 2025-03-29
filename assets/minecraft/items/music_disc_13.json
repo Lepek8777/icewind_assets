@@ -79,6 +79,27 @@
           "type": "minecraft:model",
           "model": "icewind:item/roll"
         }
+      },
+      {
+        "when": "raven0",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:entity/raven0"
+        }
+      },
+      {
+        "when": "raven1",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:entity/raven1"
+        }
+      },
+      {
+        "when": "raven2",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:entity/raven2"
+        }
       }
     ],
     "fallback": {
