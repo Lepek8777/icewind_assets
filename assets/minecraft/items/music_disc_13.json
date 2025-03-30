@@ -102,6 +102,13 @@
         }
       },
       {
+        "when": "scarecrow_item",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/scarecrow_item"
+        }
+      },
+      {
         "when": "scarecrow",
         "model": {
           "type": "minecraft:model",
