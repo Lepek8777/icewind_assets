@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/lily_pad"
+  },
+  "elements": [],
+  "display": {
+    "head": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        7,
+        0
+      ],
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    }
+  }
+}
