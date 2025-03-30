@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "block/spruce_planks",
-		"2": "block/hay_block_top",
-		"3": "block/hay_block_side",
-		"4": "block/carved_pumpkin",
-		"5": "block/pumpkin_side",
-		"6": "block/pumpkin_top",
+		"1": "minecraft:block/spruce_planks",
+		"2": "minecraft:block/hay_block_top",
+		"3": "minecraft:block/hay_block_side",
+		"4": "minecraft:block/carved_pumpkin",
+		"5": "minecraft:block/pumpkin_side",
+		"6": "minecraft:block/pumpkin_top",
 		"7": "icewind:item/cloth",
 		"particle": ""
 	},
