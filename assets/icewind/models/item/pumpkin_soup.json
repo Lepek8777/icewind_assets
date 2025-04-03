@@ -1,1 +1,6 @@
-
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "icewind:item/pumpkin_soup"
+  }
+}
