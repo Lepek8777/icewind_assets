@@ -18,6 +18,7 @@
 "item.icewind.goldfish": "Goldfish",
 "item.icewind.roll": "Roll",
 "item.icewind.scarecrow": "Scarecrow",
+"item.icewind.pumpkin_soup": "Pumpkin Soup",
 "enchantment.icewind.snow_protection": "Snow Protection",
 "death.attack.hyponatremia": "%1$s died as a result of hyponatremia",
 "death.attack.hyponatremia.player": "%1$s died as a result of hyponatremia while fighting %2$s",
@@ -32,6 +33,5 @@
 "advancements.icewind.bakers_time.title": "Baker's Time",
 "advancements.icewind.bakers_time.description": "Make rolls or bread",
 "advancements.icewind.hand_fan.title": "Fan-tastic Advancement!",
-"advancements.icewind.hand_fan.description": "Use a Hand Fan",
-"item.icewind.pumpkin_soup": "Pumpkin Soup"
+"advancements.icewind.hand_fan.description": "Use a Hand Fan"
 }
