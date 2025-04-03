@@ -135,6 +135,13 @@
           "type": "minecraft:model",
           "model": "icewind:item/scalar"
         }
+      },
+      {
+        "when": "bluefin_notho",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/bluefin_notho"
+        }
       }
     ],
     "fallback": {
