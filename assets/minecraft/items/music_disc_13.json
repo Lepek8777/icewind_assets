@@ -122,29 +122,3 @@
     }
   }
 }
-{
-  "model": {
-    "type": "minecraft:select",
-    "property": "minecraft:custom_model_data",
-    "cases": [
-      {
-        "when": "filled_waterskin",
-        "model": {
-          "type": "minecraft:model",
-          "model": "icewind:item/filled_waterskin"
-        }
-      },
-      {
-        "when": "pumpkin_soup",
-        "model": {
-          "type": "minecraft:model",
-          "model": "icewind:item/pumpkin_soup"
-        }
-      }
-    ],
-    "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/music_disc_13"
-    }
-  }
-}
