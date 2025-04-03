@@ -114,6 +114,13 @@
           "type": "minecraft:model",
           "model": "icewind:entity/scarecrow"
         }
+      },
+      {
+        "when": "pumpkin_soup",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/pumpkin_soup"
+        }
       }
     ],
     "fallback": {
