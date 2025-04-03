@@ -6,6 +6,8 @@
   "block.minecraft.bed.obstructed": "",
   "block.minecraft.bed.occupied": "",
   "block.minecraft.bed.too_far_away": "",
+  
+
   "item.icewind.waterskin": "Bukłak",
   "item.icewind.filled_waterskin": "Napełniony bukłak",
   "item.icewind.hand_fan": "Wachlarz",
@@ -19,6 +21,8 @@
   "item.icewind.roll": "Bułka",
   "item.icewind.scarecrow": "Strach na wróble",
   "item.icewind.pumpkin_soup": "Zupa dyniowa",
+  "item.icewind.scalar": "Skalar",
+  "item.icewind.poecilia_latipinna": "Molinezja",
   "enchantment.icewind.snow_protection": "Ochrona przed śniegiem",
   "enchantment.icewind.snow_aspect": "Zaklęty śnieg",
   "death.attack.hyponatremia": "%1$s zmarł w wyniku hiponatremii",

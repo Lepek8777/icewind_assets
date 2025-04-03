@@ -121,6 +121,20 @@
           "type": "minecraft:model",
           "model": "icewind:item/pumpkin_soup"
         }
+      },
+      {
+        "when": "poecilia_latipinna",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/poecilia_latipinna"
+        }
+      },
+      {
+        "when": "scalar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/scalar"
+        }
       }
     ],
     "fallback": {
