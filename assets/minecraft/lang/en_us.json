@@ -30,6 +30,7 @@
 "item.icewind.scarecrow": "Scarecrow",
 "item.icewind.pumpkin_soup": "Pumpkin Soup",
 "enchantment.icewind.snow_protection": "Snow Protection",
+"enchantment.icewind.snow_aspect": "Snow Aspect",
 "death.attack.hyponatremia": "%1$s died as a result of hyponatremia",
 "death.attack.hyponatremia.player": "%1$s died as a result of hyponatremia while fighting %2$s",
 "item.waterskin.pour": "Water pouring",
