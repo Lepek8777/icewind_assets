@@ -128,10 +128,10 @@
     "property": "minecraft:custom_model_data",
     "cases": [
       {
-        "when": "pumpkin_soup",
+        "when": "filled_waterskin",
         "model": {
           "type": "minecraft:model",
-          "model": "icewind:item/pumpkin_soup"
+          "model": "icewind:item/filled_waterskin"
         }
       },
       {
