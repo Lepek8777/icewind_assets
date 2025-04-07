@@ -6,6 +6,12 @@
 "block.minecraft.bed.obstructed": "",
 "block.minecraft.bed.occupied": "",
 "block.minecraft.bed.too_far_away": "",
+
+"gui.icewind.settings.settings":"Settings",
+"gui.icewind.settings.show_indicator":"Show temperature indicator",
+"gui.icewind.settings.temperature_difficulty":"Temperature difficulty",
+"gui.icewind.settings.thermal_shock":"Thermal shock",
+
 "gui.icewind.indicator.1": "\uEb01",
 "gui.icewind.indicator.2": "\uEb02",
 "gui.icewind.indicator.3": "\uEb03",
@@ -15,6 +21,8 @@
 "gui.icewind.indicator.7": "\uEb07",
 "gui.icewind.indicator.8": "\uEb08",
 "gui.icewind.indicator.9": "\uEb09",
+
+
 
 "item.icewind.waterskin": "Waterskin",
 "item.icewind.filled_waterskin": "Filled Waterskin",
