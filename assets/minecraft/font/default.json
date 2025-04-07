@@ -4,63 +4,63 @@
             "type": "bitmap",
             "file": "icewind:gui/indicator/1.png",
             "ascent": -16,
-            "height": 10,
+            "height": 12,
             "chars": ["\uEb01"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/2.png",
             "ascent": -16,
-            "height": 10,
+            "height": 12,
             "chars": ["\uEb02"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/3.png",
             "ascent": -16,
-            "height": 10,
+            "height": 12,
             "chars": ["\uEb03"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/4.png",
             "ascent": -16,
-            "height": 10,
+            "height": 12,
             "chars": ["\uEb04"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/5.png",
             "ascent": -16,
-            "height": 10,
+            "height": 12,
             "chars": ["\uEb05"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/6.png",
             "ascent": -16,
-            "height": 10,
+            "height": 12,
             "chars": ["\uEb06"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/7.png",
             "ascent": -16,
-            "height": 10,
+            "height": 12,
             "chars": ["\uEb07"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/8.png",
             "ascent": -16,
-            "height": 10,
+            "height": 12,
             "chars": ["\uEb08"]
         },
         {
             "type": "bitmap",
             "file": "icewind:gui/indicator/9.png",
             "ascent": -16,
-            "height": 10,
+            "height": 12,
             "chars": ["\uEb09"]
         },
         {

@@ -1,0 +1,14 @@
+{
+    "model": {
+      "type": "minecraft:condition",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/nautilus_shell"
+      },
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "icewind:item/tooting_nautilus_shell"
+      },
+      "property": "minecraft:using_item"
+    }
+  }
