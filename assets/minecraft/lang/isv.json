@@ -6,6 +6,13 @@
 "block.minecraft.bed.obstructed": "",
 "block.minecraft.bed.occupied": "",
 "block.minecraft.bed.too_far_away": "",
+
+"gui.icewind.settings.settings":"Nastavjenja",
+"gui.icewind.settings.show_indicator":"Pokazuju znakom temperaturo",
+"gui.icewind.settings.temperature_difficulty":"Nivó teškoće temperatury",
+"gui.icewind.settings.thermal_shock":"Termičny šok",
+
+  
 "item.icewind.waterskin": "Vodehól",
 "item.icewind.filled_waterskin": "Napolnena vodenica",
 "item.icewind.hand_fan": "Věje",
