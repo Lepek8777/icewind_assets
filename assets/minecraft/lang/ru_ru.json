@@ -6,8 +6,12 @@
   "block.minecraft.bed.obstructed": "",
   "block.minecraft.bed.occupied": "",
   "block.minecraft.bed.too_far_away": "",
-  
 
+  "gui.icewind.settings.settings":"Настройки",
+  "gui.icewind.settings.show_indicator":"Показать маркер температуры",
+  "gui.icewind.settings.temperature_difficulty":"Уровень сложности температуры",
+  "gui.icewind.settings.thermal_shock":"Тепловой удар",
+  
   "item.icewind.waterskin": "Бурдюк",
   "item.icewind.filled_waterskin": "Наполненный бурдюк",
   "item.icewind.hand_fan": "Веер",
