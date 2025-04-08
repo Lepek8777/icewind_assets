@@ -7,10 +7,10 @@
   "block.minecraft.bed.occupied": "",
   "block.minecraft.bed.too_far_away": "",
   
-"gui.icewind.settings.settings":"Ustawienia",
-"gui.icewind.settings.show_indicator":"Pokazuj znacznik temperatury",
-"gui.icewind.settings.temperature_difficulty":"Poziom trudności temperatury",
-"gui.icewind.settings.thermal_shock":"Szok termiczny",
+  "gui.icewind.settings.settings":"Ustawienia",
+  "gui.icewind.settings.show_indicator":"Pokazuj znacznik temperatury",
+  "gui.icewind.settings.temperature_difficulty":"Poziom trudności temperatury",
+  "gui.icewind.settings.thermal_shock":"Szok termiczny",
 
   "item.icewind.waterskin": "Bukłak",
   "item.icewind.filled_waterskin": "Napełniony bukłak",
