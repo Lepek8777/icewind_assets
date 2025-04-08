@@ -1,179 +1,186 @@
 {
     "model": {
-        "type": "minecraft:select",
-        "property": "minecraft:custom_model_data",
-        "cases": [
-            {
-                "when": "filled_waterskin",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/filled_waterskin"
-                }
-            },
-            {
-                "when": "waterskin",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/waterskin"
-                }
-            },
-            {
-                "when": "waterskin_cold",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/waterskin_cold"
-                }
-            },
-            {
-                "when": "waterskin_hot",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/waterskin_hot"
-                }
-            },
-            {
-                "when": "melon_ice_cream",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/melon_ice_cream"
-                }
-            },
-            {
-                "when": "sweet_berry_ice_cream",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/sweet_berry_ice_cream"
-                }
-            },
-            {
-                "when": "cooked_egg",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/cooked_egg"
-                }
-            },
-            {
-                "when": "catfish",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/catfish"
-                }
-            },
-            {
-                "when": "argentine",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/argentine"
-                }
-            },
-            {
-                "when": "goldfish",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/goldfish"
-                }
-            },
-            {
-                "when": "roll",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/roll"
-                }
-            },
-            {
-                "when": "raven0",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:entity/raven0"
-                }
-            },
-            {
-                "when": "raven1",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:entity/raven1"
-                }
-            },
-            {
-                "when": "raven2",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:entity/raven2"
-                }
-            },
-            {
-                "when": "scarecrow_item",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/scarecrow_item"
-                }
-            },
-            {
-                "when": "scarecrow",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:entity/scarecrow"
-                }
-            },
-            {
-                "when": "pumpkin_soup",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/pumpkin_soup"
-                }
-            },
-            {
-                "when": "poecilia_latipinna",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/poecilia_latipinna"
-                }
-            },
-            {
-                "when": "scalar",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/scalar"
-                }
-            },
-            {
-                "when": "bluefin_notho",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/bluefin_notho"
-                }
-            },
-            {
-                "when": "shrimp",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "icewind:item/shrimp"
-                }
-            },
-            {
-                "when": "straw_hat",
-                "model": {
-                    "type": "minecraft:select",
-                    "property": "minecraft:display_context",
-                    "cases": [
-                        {
-                            "when": "head",
-                            "model": {
-                                "type": "minecraft:model",
-                                "model": "icewind:item/straw_hat"
-                            }
-                        }
-                    ],
-                    "fallback": {
-                        "type": "minecraft:model",
-                        "model": "icewind:item/straw_hat_item"
-                    }
-                }
-            }
-        ],
-        "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:custom_model_data",
+      "cases": [
+        {
+          "when": "filled_waterskin",
+          "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/music_disc_13"
+            "model": "icewind:item/filled_waterskin"
+          }
+        },
+        {
+          "when": "waterskin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/waterskin"
+          }
+        },
+        {
+          "when": "waterskin_cold",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/waterskin_cold"
+          }
+        },
+        {
+          "when": "waterskin_hot",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/waterskin_hot"
+          }
+        },
+        {
+          "when": "melon_ice_cream",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/melon_ice_cream"
+          }
+        },
+        {
+          "when": "sweet_berry_ice_cream",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/sweet_berry_ice_cream"
+          }
+        },
+        {
+          "when": "cooked_egg",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/cooked_egg"
+          }
+        },
+        {
+          "when": "catfish",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/catfish"
+          }
+        },
+        {
+          "when": "argentine",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/argentine"
+          }
+        },
+        {
+          "when": "goldfish",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/goldfish"
+          }
+        },
+        {
+          "when": "roll",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/roll"
+          }
+        },
+        {
+          "when": "raven0",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:entity/raven0"
+          }
+        },
+        {
+          "when": "raven1",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:entity/raven1"
+          }
+        },
+        {
+          "when": "raven2",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:entity/raven2"
+          }
+        },
+        {
+          "when": "scarecrow_item",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/scarecrow_item"
+          }
+        },
+        {
+          "when": "scarecrow",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:entity/scarecrow"
+          }
+        },
+        {
+          "when": "pumpkin_soup",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/pumpkin_soup"
+          }
+        },
+        {
+          "when": "poecilia_latipinna",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/poecilia_latipinna"
+          }
+        },
+        {
+          "when": "scalar",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/scalar"
+          }
+        },
+        {
+          "when": "bluefin_notho",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/bluefin_notho"
+          }
+        },
+        {
+          "when": "shrimp",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/shrimp"
+          }
+        },
+        {
+          "when": "straw_hat",
+          "model": {
+            "type": "minecraft:select",
+            "property": "minecraft:display_context",
+            "cases": [
+              {
+                "when": "head",
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "icewind:item/straw_hat"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "icewind:item/straw_hat_item"
+            }
+          }
+        },
+        {
+          "when": "starfish",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/starfish"
+          }
         }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/music_disc_13"
+      }
     }
-}
+  }

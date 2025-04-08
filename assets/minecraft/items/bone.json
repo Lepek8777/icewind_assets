@@ -18,6 +18,13 @@
               }
           },
           {
+            "when": "starfish_skeleton",
+            "model": {
+                "type": "minecraft:model",
+                "model": "icewind:item/starfish_skeleton"
+            }
+          },
+          {
               "when": "seashell",
               "model": {
                   "type": "minecraft:model",
