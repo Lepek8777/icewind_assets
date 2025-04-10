@@ -31,6 +31,8 @@
   "item.icewind.shrimp": "Креветка",
   "item.icewind.straw_hat": "Соломенная шляпа",
   "item.icewind.seashell": "Ракушка",
+  "item.icewind.starfish": "Морская звезда",
+  "item.icewind.starfish_skeleton": "Скелет морской звезды",
   "enchantment.icewind.snow_protection": "Защита от снега",
   "enchantment.icewind.snow_aspect": "Зачарованный снег",
   "death.attack.hyponatremia": "%1$s Умер от гипонатриемии",
