@@ -60,6 +60,13 @@
           }
         },
         {
+          "when": "sweet_berry_pie",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/sweet_berry_pie"
+          }
+        },
+        {
           "when": "argentine",
           "model": {
             "type": "minecraft:model",
