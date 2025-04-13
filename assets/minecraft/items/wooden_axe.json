@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "wooden_tomahawk",
+				"model": {
+					"type": "minecraft:model",
+					"model": "icewind:item/wooden_tomahawk"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/wooden_axe"
+		}
+	}
+}

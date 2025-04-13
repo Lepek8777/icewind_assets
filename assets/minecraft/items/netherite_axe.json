@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "netherite_tomahawk",
+				"model": {
+					"type": "minecraft:model",
+					"model": "icewind:item/netherite_tomahawk"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/netherite_axe"
+		}
+	}
+}
