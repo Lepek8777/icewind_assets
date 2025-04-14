@@ -1,0 +1,54 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "golden_tomahawk",
+				"model": {
+					"type": "minecraft:model",
+					"model": "icewind:item/golden_tomahawk"
+				}
+			},
+            {
+				"when": "diamond_tomahawk",
+				"model": {
+					"type": "minecraft:model",
+					"model": "icewind:item/diamond_tomahawk"
+				}
+			},
+            {
+				"when": "netherite_tomahawk",
+				"model": {
+					"type": "minecraft:model",
+					"model": "icewind:item/netherite_tomahawk"
+				}
+			},
+            {
+				"when": "wooden_tomahawk",
+				"model": {
+					"type": "minecraft:model",
+					"model": "icewind:item/wooden_tomahawk"
+				}
+			},
+            {
+				"when": "stone_tomahawk",
+				"model": {
+					"type": "minecraft:model",
+					"model": "icewind:item/stone_tomahawk"
+				}
+			},
+			{
+				"when": "iron_tomahawk",
+				"model": {
+					"type": "minecraft:model",
+					"model": "icewind:item/iron_tomahawk"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/music_disc_strad"
+		}
+	}
+}
