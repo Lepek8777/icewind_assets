@@ -39,6 +39,13 @@
           }
         },
         {
+          "when": "bread_piece",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/bread_piece"
+          }
+        },
+        {
           "when": "sweet_berry_ice_cream",
           "model": {
             "type": "minecraft:model",
