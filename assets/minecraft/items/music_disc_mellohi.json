@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "cashmere",
+				"model": {
+					"type": "minecraft:model",
+					"model": "icewind:item/cashmere"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/music_disc_mellohi"
+		}
+	}
+}
