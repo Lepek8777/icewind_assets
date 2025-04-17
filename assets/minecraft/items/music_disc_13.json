@@ -123,6 +123,13 @@
           }
         },
         {
+          "when": "chicken_broth",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/chicken_broth"
+          }
+        },
+        {
           "when": "scarecrow_item",
           "model": {
             "type": "minecraft:model",
