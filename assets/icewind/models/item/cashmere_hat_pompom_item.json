@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "icewind:item/cashmere_hat_pompom_item1",
+        "layer1": "icewind:item/cashmere_hat_pompom_item0"
+    }
+}
