@@ -116,6 +116,13 @@
           }
         },
         {
+          "when": "comb",
+          "model": {
+            "type": "minecraft:model",
+            "model": "icewind:item/comb"
+          }
+        },
+        {
           "when": "scarecrow_item",
           "model": {
             "type": "minecraft:model",
