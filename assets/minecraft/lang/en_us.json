@@ -11,6 +11,7 @@
 "gui.icewind.settings.show_indicator":"Show temperature indicator",
 "gui.icewind.settings.temperature_difficulty":"Temperature difficulty",
 "gui.icewind.settings.thermal_shock":"Thermal shock",
+"gui.icewind.settings.fishing_bait_required":"Bait required while fishing",
 
 "gui.icewind.indicator.1": "\uEb01",
 "gui.icewind.indicator.2": "\uEb02",
