@@ -1,7 +1,7 @@
 {
   "entity.player.damage.freeze":
   {
-    "subtitle": "entity.player.damage.freeze",
+    "subtitle": "subtitles.entity.player.freeze_hurt",
     "sounds":
     [
       {
