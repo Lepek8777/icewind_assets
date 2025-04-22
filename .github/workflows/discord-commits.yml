@@ -1,0 +1,25 @@
+name: Notify Discord on Commit
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  send-discord-message:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Format and send commit message
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          GITHUB_ACTOR: ${{ github.actor }}
+          COMMIT_URL: ${{ github.event.head_commit.url }}
+        run: |
+          FULL_MSG=$(jq -r '.head_commit.message' "$GITHUB_EVENT_PATH")
+          TITLE=$(echo "$FULL_MSG" | head -n1)
+          DESC=$(echo "$FULL_MSG" | sed -n '2,$p')
+          [ -z "$DESC" ] && DESC="(no description)"
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d "{\"content\": \"📦 **New commit** by \`${GITHUB_ACTOR}\`:\n**Title:** ${TITLE}\n**Description:** ${DESC}\n🔗 ${COMMIT_URL}\"}" \
+               "$DISCORD_WEBHOOK"
