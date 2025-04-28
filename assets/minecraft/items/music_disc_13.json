@@ -279,6 +279,13 @@
           "type": "minecraft:model",
           "model": "icewind:item/sunflower_seed"
         }
+      },
+      {
+        "when": "rotten_apple",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/rotten_apple"
+        }
       }
     ],
     "fallback": {
