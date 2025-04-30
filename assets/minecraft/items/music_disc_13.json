@@ -286,6 +286,13 @@
           "type": "minecraft:model",
           "model": "icewind:item/rotten_apple"
         }
+      },
+      {
+        "when": "anglerfish",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/anglerfish"
+        }
       }
     ],
     "fallback": {
