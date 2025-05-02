@@ -64,6 +64,12 @@
             "chars": ["\uEb09"]
         },
         {
+            "type": "bitmap",
+            "file": "icewind:gui/hook.png",
+            "ascent": 7,
+            "chars": ["\uEb10"]
+        },
+        {
             "type": "ttf",
             "file": "minecraft:negative_spaces.ttf",
             "shift": [0.0, 0.0],
