@@ -60,24 +60,10 @@
         }
       },
       {
-        "when": "catfish",
-        "model": {
-          "type": "minecraft:model",
-          "model": "icewind:item/catfish"
-        }
-      },
-      {
         "when": "sweet_berry_pie",
         "model": {
           "type": "minecraft:model",
           "model": "icewind:item/sweet_berry_pie"
-        }
-      },
-      {
-        "when": "argentine",
-        "model": {
-          "type": "minecraft:model",
-          "model": "icewind:item/argentine"
         }
       },
       {
@@ -176,13 +162,6 @@
         "model": {
           "type": "minecraft:model",
           "model": "icewind:item/bluefin_notho"
-        }
-      },
-      {
-        "when": "shrimp",
-        "model": {
-          "type": "minecraft:model",
-          "model": "icewind:item/shrimp"
         }
       },
       {
@@ -292,6 +271,34 @@
         "model": {
           "type": "minecraft:model",
           "model": "icewind:item/anglerfish"
+        }
+      },
+      {
+        "when": "cooked_shrimp",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/cooked_shrimp"
+        }
+      },
+      {
+        "when": "cooked_carp",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/cooked_carp"
+        }
+      },
+      {
+        "when": "cooked_argentine",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/cooked_argentine"
+        }
+      },
+      {
+        "when": "cooked_catfish",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/cooked_catfish"
         }
       }
     ],
