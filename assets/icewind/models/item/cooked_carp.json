@@ -1,7 +1,32 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "icewind:item/cooked_carp"
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "icewind:item/cooked_carp"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        2,
+        1
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        2,
+        1
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
     }
   }
-  
+}
