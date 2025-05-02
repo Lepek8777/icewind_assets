@@ -144,13 +144,6 @@
         }
       },
       {
-        "when": "earthworm",
-        "model": {
-          "type": "minecraft:model",
-          "model": "icewind:item/earthworm"
-        }
-      },
-      {
         "when": "scalar",
         "model": {
           "type": "minecraft:model",
