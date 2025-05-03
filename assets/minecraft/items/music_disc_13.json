@@ -293,6 +293,13 @@
           "type": "minecraft:model",
           "model": "icewind:item/cooked_catfish"
         }
+      },
+      {
+        "when": "cereal_coffee",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/cereal_coffee"
+        }
       }
     ],
     "fallback": {
