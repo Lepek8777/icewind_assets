@@ -12,6 +12,7 @@
   "gui.icewind.settings.temperature_difficulty":"Poziom trudności temperatury",
   "gui.icewind.settings.thermal_shock":"Szok termiczny",
   "gui.icewind.settings.fishing_bait_required":"Wymagana przynęta przy łowieniu",
+  "gui.icewind.settings.show_temperature_icon_in_nicks":"Pokazuj ikonę temp. w nickach",
 
   "item.icewind.waterskin": "Bukłak",
   "item.icewind.filled_waterskin": "Napełniony bukłak",

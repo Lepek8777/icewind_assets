@@ -70,6 +70,60 @@
             "chars": ["\uEb10"]
         },
         {
+            "type": "bitmap",
+            "file": "icewind:gui/indicator/1.png",
+            "ascent": 7,
+            "chars": ["\uEa21"]
+        },
+        {
+            "type": "bitmap",
+            "file": "icewind:gui/indicator/2.png",
+            "ascent": 7,
+            "chars": ["\uEa22"]
+        },
+        {
+            "type": "bitmap",
+            "file": "icewind:gui/indicator/3.png",
+            "ascent": 7,
+            "chars": ["\uEa23"]
+        },
+        {
+            "type": "bitmap",
+            "file": "icewind:gui/indicator/4.png",
+            "ascent": 7,
+            "chars": ["\uEa24"]
+        },
+        {
+            "type": "bitmap",
+            "file": "icewind:gui/indicator/5.png",
+            "ascent": 7,
+            "chars": ["\uEa25"]
+        },
+        {
+            "type": "bitmap",
+            "file": "icewind:gui/indicator/6.png",
+            "ascent": 7,
+            "chars": ["\uEa26"]
+        },
+        {
+            "type": "bitmap",
+            "file": "icewind:gui/indicator/7.png",
+            "ascent": 7,
+            "chars": ["\uEa27"]
+        },
+        {
+            "type": "bitmap",
+            "file": "icewind:gui/indicator/8.png",
+            "ascent": 7,
+            "chars": ["\uEa28"]
+        },
+        {
+            "type": "bitmap",
+            "file": "icewind:gui/indicator/9.png",
+            "ascent": 7,
+            "chars": ["\uEa29"]
+        },
+        {
             "type": "ttf",
             "file": "minecraft:negative_spaces.ttf",
             "shift": [0.0, 0.0],
