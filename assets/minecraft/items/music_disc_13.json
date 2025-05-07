@@ -300,6 +300,13 @@
           "type": "minecraft:model",
           "model": "icewind:item/cereal_coffee"
         }
+      },
+      {
+        "when": "croissant",
+        "model": {
+          "type": "minecraft:model",
+          "model": "icewind:item/croissant"
+        }
       }
     ],
     "fallback": {
