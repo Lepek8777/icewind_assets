@@ -1,6 +1,9 @@
 {
   "pack": {
-    "description": "Icewind texturepack",
+    "description": {
+      "text": "Icewind texturepack",
+      "color": "aqua"
+    },
     "pack_format": 46
   }
 }
